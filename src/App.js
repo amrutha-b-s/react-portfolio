@@ -7,7 +7,7 @@ function App() {
     <div>
       <Navbar />
 
-      <h1>Hello Amrutha 👋</h1>
+      <h1>Hello Amrutha🤝🏻 </h1>
       <p>My first React app is running</p>
 
       <About />
